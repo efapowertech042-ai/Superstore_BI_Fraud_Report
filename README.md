@@ -197,8 +197,8 @@ discount-or-deceit/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/discount-or-deceit.git
-cd discount-or-deceit
+git clone https://github.com/efapowertech042-ai/Superstore_BI_Fraud_Report.git
+cd Superstore_BI_Fraud_Report
 
 # Install dependencies
 pip install scikit-learn scipy matplotlib seaborn openpyxl pandas numpy
@@ -285,8 +285,9 @@ openpyxl>=3.1
 **Efa Godspower**
 Data Scientist · NLP/GenAI · Credit Modelling · Behavioural Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efa-godspower-981ab7328)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/efapowertech042-ai)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:efapowertech042@gmail.com)
 
 ---
 
